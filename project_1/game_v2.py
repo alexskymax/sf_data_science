@@ -1,49 +1,60 @@
-"""Игра угадай число
-Компьютер сам загадывает и сам угадывает число
+"""Game guess number.
+The computer itself guesses and guesses the number itself.
 """
-
 import numpy as np
 
 
-def random_predict(number: int = 1) -> int:
-    """Рандомно угадываем число
+def random_predict(number = np.random.randint(1, 101)) -> int:
+  """Random guess number
 
-    Args:
-        number (int, optional): Загаданное число. Defaults to 1.
+  Args:
+    number (int, optional): Random number.
 
-    Returns:
-        int: Число попыток
-    """
-    count = 0
+  Returns:
+    int: Count of attempts
+  """
+  count = 0
+  min_range = 1
+  max_range = 101
+  predict = np.random.randint(min_range,max_range) # Generated number to compare
+                                                      
+  while True: # Starting cycle while
+    count += 1 # Starting count
+    if number > predict:
+      min_range = predict # Change min_range
+      predict = np.random.randint(min_range,max_range)
+                    
+    elif number < predict:
+      max_range = predict # Change max_range
+      predict = np.random.randint(min_range,max_range)
+        
+    elif number == predict:
+      break # End cycle
+        
+  return count
+    
 
-    while True:
-        count += 1
-        predict_number = np.random.randint(1, 101)  # предполагаемое число
-        if number == predict_number:
-            break  # выход из цикла если угадали
-    return count
+def score_game(random_predict):
+  """How many attempts on average out of 1000 approaches our algorithm guesses
 
-
-def score_game(random_predict) -> int:
-    """За какое количство попыток в среднем за 1000 подходов угадывает наш алгоритм
-
-    Args:
-        random_predict ([type]): функция угадывания
-
-    Returns:
-        int: среднее количество попыток
-    """
-    count_ls = []
-    #np.random.seed(1)  # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
-
-    for number in random_array:
-        count_ls.append(random_predict(number))
-
-    score = int(np.mean(count_ls))
-    print(f"Ваш алгоритм угадывает число в среднем за:{score} попыток")
-    return score
-
+  Args:
+    random_predict (_type_): guess func
+        
+  Returns:
+    int: average attempts
+  """
+    
+  count_ls = [] # List for save number attempts 
+  np.random.seed(1) # Start number for algoritm generation random numbers
+  random_array = np.random.randint(1,101,size=(1000))
+    
+  for number in random_array:
+    count_ls.append(random_predict(number))
+        
+  score = int(np.mean(count_ls)) # Average number attempts
+    
+  print(f"Yours algoritm guess numbers average: {score} attempts!")
+  return(score)
 
 if __name__ == "__main__":
     # RUN
