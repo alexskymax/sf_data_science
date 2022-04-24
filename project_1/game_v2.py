@@ -4,7 +4,7 @@ The computer itself guesses and guesses the number itself.
 import numpy as np
 
 
-def random_predict(number = np.random.randint(1, 101)) -> int:
+def random_predict(number = 1) -> int:
   """Random guess number
 
   Args:
