@@ -25,7 +25,7 @@ def random_predict(number = 1) -> int:
       predict = np.random.randint(min_range,max_range)
                     
     elif number < predict:
-      max_range = predict # Change max_range
+      max_range = predict + 1 # Change max_range
       predict = np.random.randint(min_range,max_range)
         
     elif number == predict:
@@ -56,6 +56,7 @@ def score_game(random_predict):
   print(f"Yours algoritm guess numbers average: {score} attempts!")
   return(score)
 
+
 if __name__ == "__main__":
     # RUN
-    score_game(random_predict)
+  score_game(random_predict)
