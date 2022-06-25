@@ -7,5 +7,5 @@ ___
 
 [Проект 1. Игра: Угадай число. PYTHON-8. Финальное задание](https://github.com/alexskymax/sf_data_science/tree/main/project_1)
 
-[Проект 2. Анализ вакансий на hh.ru: ____________](https://github.com/alexskymax/sf_data_science/tree/main/project_2)
+[Проект 2. Анализ вакансий на hh.ru](https://github.com/alexskymax/sf_data_science/tree/main/project_2)
 
