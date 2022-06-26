@@ -11,7 +11,9 @@
 ### Описание проекта    
 
 (https://drive.google.com/file/d/187P5W9BK58zw2icpY-bqP-l5FDnHceT_/view?usp=sharing)
+
 (https://drive.google.com/file/d/1DgoyZi-Kadvj1h0fVejU8Ww031IH3EZA/view?usp=sharing)
+
 Угадать загаданное компьютером число за минимальное количество попыток.
 
 :arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
