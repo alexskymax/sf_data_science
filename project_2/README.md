@@ -31,8 +31,8 @@
 
 ### Краткая информация о данных
 
-- Файл с исходными данными резюме вы можете скачать [здесь.](https://drive.google.com/file/d/
-187P5W9BK58zw2icpY-bqP-l5FDnHceT_/view?usp=sharing)
+- Файл с исходными данными резюме вы можете скачать [здесь.](https://drive.google.com/file/d/187P5W9BK58zw2icpY-bqP-l5FDnHceT_/view?usp=sharing)
+
 - Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019 можете
 скачать  [здесь.](https://drive.google.com/file/d/1DgoyZi-Kadvj1h0fVejU8Ww031IH3EZA/view?usp=sharing)
   
