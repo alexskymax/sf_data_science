@@ -1,22 +1,20 @@
 # Проект 2. Игра: Угадай число. PYTHON-8. Финальное задание
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Результаты)    
-[6. Выводы](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Результаты)    
+[6. Выводы](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Выводы) 
 
 ### Описание проекта    
 
-(https://drive.google.com/file/d/187P5W9BK58zw2icpY-bqP-l5FDnHceT_/view?usp=sharing)
+Построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
+Файл с исходными данными вы можете скачать [здесь.](https://drive.google.com/file/d/187P5W9BK58zw2icpY-bqP-l5FDnHceT_/view?usp=sharing)
+Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019 можете скачать  [здесь.](https://drive.google.com/file/d/1DgoyZi-Kadvj1h0fVejU8Ww031IH3EZA/view?usp=sharing)
 
-(https://drive.google.com/file/d/1DgoyZi-Kadvj1h0fVejU8Ww031IH3EZA/view?usp=sharing)
-
-Угадать загаданное компьютером число за минимальное количество попыток.
-
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -37,7 +35,7 @@
 
 В данном проекте отсутствуют данные для обработки.
   
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -73,21 +71,21 @@
 Выводим строку с результатом среднего значения количества попыток, за которое удалось угадать число из 1000 повторений.
 
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
 ### Результаты:  
 
 Разработанная программа позволяет угадывать числа в диапазоне от 1 до 100, в среднем за 9 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
 ### Выводы:  
 
 Данное решение полностью отвечает требованиям финального задания блока PYTHON-8. 
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/tree/main/project_2/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
