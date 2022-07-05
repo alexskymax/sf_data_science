@@ -27,6 +27,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Краткая информация о данных
 
