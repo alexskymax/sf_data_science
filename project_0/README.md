@@ -1,17 +1,17 @@
 # Проект 1. Игра: Угадай число. PYTHON-8. Финальное задание
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Результаты)    
-[6. Выводы](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Результаты)    
+[6. Выводы](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -32,7 +32,7 @@
 
 В данном проекте отсутствуют данные для обработки.
   
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -68,21 +68,21 @@
 Выводим строку с результатом среднего значения количества попыток, за которое удалось угадать число из 1000 повторений.
 
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 
 Разработанная программа позволяет угадывать числа в диапазоне от 1 до 100, в среднем за 9 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 
 Данное решение полностью отвечает требованиям финального задания блока PYTHON-8. 
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
