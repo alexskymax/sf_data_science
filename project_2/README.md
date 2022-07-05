@@ -1,18 +1,18 @@
 # Проект 2. Анализ вакансий на hh.ru
 
 ## Оглавление
-[1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Результаты)    
-[6. Выводы](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Выводы) 
+[1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Результаты)    
+[6. Выводы](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Выводы) 
 
 ### Описание проекта
 
 Проведём анализ данных резюме с сайта hh.ru
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -36,7 +36,7 @@
 - Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019 можете
 скачать  [здесь.](https://drive.google.com/file/d/1DgoyZi-Kadvj1h0fVejU8Ww031IH3EZA/view?usp=sharing)
   
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -47,21 +47,21 @@
 
 Третьим этапом мы занимаемся определением пропусков в данных, заполнением либо удалением строк с пропусками. Находим и чистим дубликаты, несостыковки или аномалии в данных. Представляем конечный Data Frame.
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:
 
 Во время выполнения проекта на все контрольные вопросы были даны правильные ответы. В таблице добавлен признак о желаемой заработной плате в рублях. 
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:
 
 В итоге проекта подготовлена таблица с корректными данными без выбросов и пропусков. Были отработаны навыки по предобработке данных, исследовании зависимостей, построении различных диаграмм зависимостей и очистке данных.
 
-:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
