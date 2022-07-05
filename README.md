@@ -7,3 +7,4 @@ ___
 
 [Проект 1. Анализ вакансий на hh.ru](https://github.com/alexskymax/sf_data_science/tree/main/project_1)
 
+[Проект 2.]
