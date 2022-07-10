@@ -1,4 +1,4 @@
-# Проект 2. Анализ вакансий на hh.ru
+# Проект 1. Анализ вакансий на hh.ru
 
 ## Оглавление
 [1. Описание проекта](https://github.com/alexskymax/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  
